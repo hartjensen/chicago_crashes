@@ -1,15 +1,18 @@
+## Chicago Car Crash Analysis
+<img width="1667" height="1089" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/d09d2492-38f7-43b7-9b9a-c4db66c079ee" />
+
 ## The Data
-The datset was found from data.gov.
+The datset was found from data.gov. <br>
 It contained 1M+ rows and 30 columns, which I narrowed down for easier analysis.
 
 ## Hypothesis: 
 Car crashes increase in Chicago on holidays and weekends.
 
 ## Technologies
-Command Line
-Docker
-Spark
-Python
+Command Line <br>
+Docker <br>
+Spark <br>
+Python <br>
 
 ## Results: 
 The top 50 car crash days do not include any holidays.
