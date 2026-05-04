@@ -1,5 +1,5 @@
 ## Chicago Car Crash Analysis
-<img width="1667" height="1089" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/d09d2492-38f7-43b7-9b9a-c4db66c079ee" />
+<img width="1000" height="989" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/d09d2492-38f7-43b7-9b9a-c4db66c079ee" />
 
 ## The Data
 The datset was found from data.gov. <br>
